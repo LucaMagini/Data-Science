@@ -13,4 +13,4 @@ The data used in each project can be found in the project folder.
     * [Answering Business Questions Using SQL](https://github.com/LucaMagini/Data-Science/blob/master/Answering%20Business%20Questions%20using%20SQL/Answering%20Business%20Questions%20Using%20SQL.ipynb): We'll be working with a version of a database called Chinook. The Chinook database contains information about a fictional digital music shop - kind of like a mini-iTunes store. We'll use the SQL language to answer some business questions.
     * [Popular Data Science Questions](https://github.com/LucaMagini/Data-Science/blob/master/Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb): Our goal in this project is to use Data Science Stack Exchange site to determine what content should a data science education company create, based on interest by subject.
 
-*Libraries: Pandas, Numpy, Matplotlib, Seaborn*
+***Libraries**: Pandas, Numpy, Matplotlib, Seaborn*
